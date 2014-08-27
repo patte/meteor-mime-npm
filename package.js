@@ -1,7 +1,7 @@
 Package.describe({
   summary: "Wrapper for the npm package mime",
   version: "0.0.1",
-  git: " \* Fill me in! *\ "
+  git: "https://github.com/patte/meteor-mime-npm"
 });
 
 Package.onUse(function(api) {
